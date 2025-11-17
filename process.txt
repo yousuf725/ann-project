@@ -1,0 +1,14 @@
+ANN (I haave to build my model and then train it to make predictions)
+
+1. Data Collection (csv , excel, database, api) done
+2. Pre-processing (how to clean the data) done
+3. Feature Engineering (converting textual data into numerical)
+4. Scaling 
+5. Train Test Split
+6. Model build
+7. Model Training
+8. predictions
+9. Deploymnt (local)
+10.Deployment (Live) (Stremlit - Domain - API ) 
+
+Mission = to create a predictive model that can predict on the basis of data
